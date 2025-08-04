@@ -1,5 +1,5 @@
 # ElectiricityUsageAnalysis
-About
+
 This project includes several SQL scripts created to evaluate electricity consumption for residential buildings. It features a detailed tracking system capturing information about homes, their respective energy efficiency, billing cycles, included appliances, and pricing plans.
 
 Project is based on analyzing variations in electricity consumption across different cities and households, evaluating energy expenditures for homes with solar panels compared to those without, and identifying the appliances and locations that consume the most electricity. It also provides stored procedures for easier data management, as well as indexes to improve query performance.
